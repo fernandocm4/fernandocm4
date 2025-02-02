@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Fernando</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Engenheiro de Computação | Full Stack developer</h3>
 
 <h3 align="left">Mídias Sociais:</h3>
 <p align="left">
